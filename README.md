@@ -1,2 +1,3 @@
 # My-first-project-as-an-IT-student-2022
 My first project as an IT student (2022), documenting early learning, experimentation, and foundational programming concepts.
+This repository contains my first project as an IT student, developed in 2022 during the early stages of my academic journey. The project reflects my initial exposure to core information technology concepts, practical problem-solving, and hands-on experimentation. While simple by design, it represents an important foundation in my growth as an IT professional and serves as a reference point for how my skills have evolved over time.
